@@ -4,3 +4,4 @@
 [submodule "lib/fprime-sx1280"]
 	path = lib/fprime-sx1280
 	url = https://github.com/pranavsuri4303/fprime-sx1280.git
+	branch = main
